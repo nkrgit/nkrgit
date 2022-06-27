@@ -17,6 +17,5 @@
 <br> <small>4. Tensorflow and Keras (Deep Learning Frameworks)</small>
 <br> <small>5. openCV (Image Processing) etc  </small>
 
-## Github stats
+## Projects I'm proud of!!
 
-[![Kiran's top langs](https://github-readme-stats-nkrgit.vercel.app/api/top-langs/?username=nkrgit&hide=Jupyter+Notebook,html&theme=synthwave)](https://github.com/nkrgit/github-readme-stats)
