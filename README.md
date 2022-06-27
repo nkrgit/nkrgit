@@ -11,6 +11,7 @@
 - ⚡ Fun fact: Having fun!! (oh god that's lazy writing)
 
 - I am well versed with Python, C, Java, along with technology modules like :
+
 <br> <small>1. pandas (Data Preprocessing),  </small>
 <br> <small>2. scipy (Data Visulaization), </small>
 <br> <small>3. sklearn (Traditional ML techniques),  </small>
