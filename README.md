@@ -17,6 +17,7 @@
 <br> <small>4. Tensorflow and Keras (Deep Learning Frameworks)</small>
 <br> <small>5. openCV (Image Processing) etc  </small>
 
-## Projects I'm proud of!!
--Yet to be added
+## My work on Kaggle platform!!
+-https://www.kaggle.com/code/nagakiranreddy/amazon-book-recommendations
+-https://www.kaggle.com/code/nagakiranreddy/netflix-recommendations
 
