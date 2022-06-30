@@ -1,6 +1,6 @@
 <div align="center">
 
-## Hola, I'm Kiran 👋
+## Hola👋, I'm Kiran👨‍💻
 
 <img src="https://qph.cf2.quoracdn.net/main-qimg-d53787f62751085c11bc7190b325c4f5"/> </p>
 
