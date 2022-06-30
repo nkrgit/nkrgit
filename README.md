@@ -18,6 +18,7 @@
 <br> <small>5. openCV (Image Processing) etc  </small>
 
 ## My work on Kaggle platform!!
--https://www.kaggle.com/code/nagakiranreddy/amazon-book-recommendations
--https://www.kaggle.com/code/nagakiranreddy/netflix-recommendations
+<br> <small>1. [Netflix Recommendations](https://www.youtube.com/watch?v=1xo9Z5u20b4](https://www.kaggle.com/code/nagakiranreddy/netflix-recommendations),  </small>
+<br> <small>2. [Amazon book recommendations](https://www.kaggle.com/code/nagakiranreddy/amazon-book-recommendations), </small>
+
 
