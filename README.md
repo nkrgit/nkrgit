@@ -18,7 +18,9 @@
 <br> <small>5. openCV (Image Processing) etc  </small>
 
 ## My work on Kaggle platform!!
-<br> <small>1. [Netflix Recommendations](https://www.youtube.com/watch?v=1xo9Z5u20b4](https://www.kaggle.com/code/nagakiranreddy/netflix-recommendations),  </small>
+<br> <small>1. [Netflix Recommendations](https://www.kaggle.com/code/nagakiranreddy/netflix-recommendations),  </small>
 <br> <small>2. [Amazon book recommendations](https://www.kaggle.com/code/nagakiranreddy/amazon-book-recommendations), </small>
+<br> <small>3. [Reinforcement Learning Algorithms: Key features, pros and cons](https://www.kaggle.com/discussions/getting-started/334293),  </small>
+<br> <small>4. [Reinforcement Learning: SARSA on Grid world Env](https://www.kaggle.com/code/nagakiranreddy/reinforcement-learning-sarsa-on-grid-world-env), </small>
 
 
