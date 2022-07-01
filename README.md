@@ -15,7 +15,8 @@
 <br> <small>2. scipy (Data Visulaization), </small>
 <br> <small>3. sklearn (Traditional ML techniques),  </small>
 <br> <small>4. Tensorflow and Keras (Deep Learning Frameworks)</small>
-<br> <small>5. openCV (Image Processing) etc  </small>
+<br> <small>5. openCV (Image Processing), </small>
+<br> <small>6. gym (Reinforcement Learning)
 
 - Hardware modules
 <br> <small>1. Arduino (Arduino IDE), </small>
@@ -28,5 +29,4 @@
 <br> <small>4. [Reinforcement Learning Algorithms: Key features, pros and cons](https://www.kaggle.com/discussions/getting-started/334293),  </small>
 <br> <small>5. [Data Cleaning & Neural Network Optimization](https://www.kaggle.com/code/nagakiranreddy/data-cleaning-neural-network-optimization) </small>
 
-# Below is my work I'm proud of!!
-
+- Below is my work I'm proud of!!
