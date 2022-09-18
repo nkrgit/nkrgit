@@ -2,25 +2,26 @@
 
 ## Hola👋, I'm Kiran👨‍💻
 
-<img src="https://qph.cf2.quoracdn.net/main-qimg-d53787f62751085c11bc7190b325c4f5"/> </p>
-
 </div>
 
-- 🌱 I’m currently learning Advanced Computer Vision
+- 🌱 I’m currently learning VR/AR
 - 📫 How to reach me: nagakiranreddy2@gmail.com
-- ⚡ Fun fact: Having fun!! (oh god that's lazy writing)
+- 🔍 LinkedIN: https://www.linkedin.com/in/nkr1/
+- ⚡ What's on my mind: VR/AR/Holograms
 
 - I am well versed with Python, C, Java, along with technology modules like :
-<br> <small>1. pandas (Data Preprocessing),  </small>
-<br> <small>2. seaborn, matplotlib (Data Visulaization), </small>
-<br> <small>3. sklearn (Traditional ML techniques),  </small>
-<br> <small>4. Tensorflow and Keras (Deep Learning Frameworks)</small>
-<br> <small>5. openCV (Image Processing), </small>
-<br> <small>6. gym (Reinforcement Learning)
+<br> <small>Numpy, Pandas, Seaborn, Matplotlib, Sklearn, OpenCV, NLTK, GeoPandas, Gym (i.e. Open AI RL) and Deep Learning frameworks: Tensorflow and Keras
+
+- Certifications
+<br> -> Deep Learning Specialization </small>
+<br> -> Machine Learning Specialization</small>
+<br> -> Computer Vision</small>
+<br> -> Sequence models (i.e., Natural Language Processing) </small>
 
 - Hardware modules
 <br> <small>1. Arduino (Arduino IDE), </small>
 <br> <small>2. Raspberry pi3 (Raspbian Stretch) etc </small>
+
 
 ## My work on Kaggle!!
 <br> <small>1. [Amazon book recommendations](https://www.kaggle.com/code/nagakiranreddy/amazon-book-recommendations), </small>
