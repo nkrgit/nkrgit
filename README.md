@@ -13,6 +13,8 @@
 <br> <small>Numpy, Pandas, Seaborn, Matplotlib, Sklearn, OpenCV, NLTK, GeoPandas, Gym (i.e. Open AI RL) and Deep Learning frameworks: Tensorflow and Keras
 
 - Certifications
+<br> -> AWS Elements of Data Science </small>
+<br> -> Data Analytics from Kaggle </small>
 <br> -> Deep Learning Specialization </small>
 <br> -> Machine Learning Specialization</small>
 <br> -> Computer Vision</small>
