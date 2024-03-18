@@ -4,8 +4,8 @@
 
 </div>
 
-- 🌱 I’m currently learning VR/AR
-- 📫 How to reach me: kiran.r@myit-job.com
+- 🌱 I’m currently learning AI/VR/AR
+- 📫 How to reach me: nagakiranreddy2@gmail.com
 - ⚡ What's on my mind: VR/AR/Holograms
 
 - I am well versed with Python, C, Java, along with technology modules like :
