@@ -4,7 +4,7 @@
 
 </div>
 
-- 🌱 I’m currently learning AI/VR/AR
+- 🌱 I’m currently learning AI/Quantum Computing
 - 📫 How to reach me: nagakiranreddy2@gmail.com
 - ⚡ What's on my mind: VR/AR/Holograms
 
